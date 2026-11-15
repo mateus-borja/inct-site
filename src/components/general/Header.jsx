@@ -31,7 +31,7 @@ export default function Header() {
         {/* 1. Logo */}
         <div className="logo">
           <Link to="/" onClick={closeAll}>
-            <img src="logo.png" alt="Logo INCT" />
+            <img src="/logo.png" alt="Logo INCT" />
           </Link>
         </div>
 
